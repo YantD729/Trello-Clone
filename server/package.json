@@ -9,6 +9,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
+    "@types/bcryptjs": "^2.4.6",
     "@types/validator": "^13.11.9",
     "abbrev": "^1.1.1",
     "acorn": "^8.11.3",
